@@ -1,0 +1,18 @@
+{
+  "name": "fm-plugin-fancytree",
+  "version": "1.0.0",
+  "author": "FrontendMatter <contact@frontendmatter.com> (http://www.frontendmatter.com)",
+  "license": "UNLICENSED",
+  "main": "js/fancytree.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendMatter/fm-plugin-fancytree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FrontendMatter/fm-plugin-fancytree/issues"
+  },
+  "homepage": "https://github.com/FrontendMatter/fm-plugin-fancytree#readme",
+  "dependencies": {
+    "jquery.fancytree": "^2.30.2"
+  }
+}
